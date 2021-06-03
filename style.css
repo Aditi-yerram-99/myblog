@@ -1,0 +1,69 @@
+.container {
+    text-align: center;
+}
+#myCarousel {
+    background-color:lightcyan;
+}
+
+#myCarousel img {
+    height: 200px;
+    margin-top: 35px;
+    cursor: pointer;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:navy;
+    font-size: 20px;
+}
+
+
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0;
+    z-index: 10;
+
+}
+
+.links {
+    list-style: none;
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-scolore: 20px;
+    font-size: 30px;
+}
+
+.links:hover {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+#Home img {
+    border-style: solid;
+    border-color: #311B92;
+    border: 5px;
+    border-radius: 80px;
+    padding: 5px;
+    width: 1000px;
+}
+
+img {
+    border-style: solid;
+    border-color: #311B92;
+    border: 5px;
+    padding: 5px;
+    width: 200px;
+}
+body {
+    
+}
+
+body {
+    
+}
